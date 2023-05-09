@@ -1,5 +1,4 @@
 # CPlusPlusBetterPrecision
-## C++ Smarter Precision
 
 - Edit the `precision` variable to set precision.
 - Edit the `number` variable for desired value.
